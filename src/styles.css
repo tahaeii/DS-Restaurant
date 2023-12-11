@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url('assets/bootstrap.5.3.2.min.css');
+@import url('./assets/fontawesome/css/fontawesome.min.css');
+
+* {
+    margin: 0;
+    padding: 0;
+}
