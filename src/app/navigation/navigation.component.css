@@ -1,0 +1,19 @@
+.nav-style {
+    width: max-content;
+    margin: 0 auto;
+}
+
+.nav-style nav {
+    padding: 0 5rem;
+    border-top: 1.5px solid #F0E0AF;
+    border-bottom: 1.5px solid #F0E0AF;
+}
+
+nav .navbar-nav .nav-a {
+    font-size: 2rem;
+    font-family: auto;
+    color: white;
+    text-decoration: none;
+    padding: 5px 35px;
+    color: #FFE1B9;
+}
